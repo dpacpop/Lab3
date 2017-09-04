@@ -12,7 +12,7 @@ int main()
 	}
 	else if(a>=97 && a<=122)
 	{
-		cout<<"the caharacter is in lower case.";
+		cout<<"the character is in lower case.";
 	}
 	else
 	{
