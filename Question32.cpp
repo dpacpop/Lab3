@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	long int a,b,c,s=0;
+	long int a,b,c;
 	cout<<"enter the natural number whose first and last digits are to be found\n";
 	cin>>a;
 	c=a%10;
