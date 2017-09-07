@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	long int a,b,c,s=0;
+	long int a,c,s=0;
 	cout<<"enter the natural number whose sum of digits is to be found\n";
 	cin>>a;
 	while(a!=0)
