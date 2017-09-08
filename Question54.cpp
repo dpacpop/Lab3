@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int a,b,n,i,j;
+	int b,n,i,j;
 	cout<<"enter the natural number limit\n";
 	cin>>n;
 	cout<<"the Perfect numbers between 1 and "<<n<<" are:\n";
