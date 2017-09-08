@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int a,b,n,i,j,s=0;
+	int b,n,i,j,s=0;
 	cout<<"enter the natural number limit\n";
 	cin>>n;
 	for(i=1;i<=n;i++)
