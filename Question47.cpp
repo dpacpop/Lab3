@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	long a,b=0,i;
+	int a,b=0,i;
 	cout<<"enter the natural number to check whether it is prime or not\n";
 	cin>>a;
 	for(i=1;i<a;i++)
