@@ -130,4 +130,5 @@ int main()
 	   cout<<a[k];
 	}
     }
+	return 0;
 }
