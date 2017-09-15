@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
-void main()
+int main()
 {
 	long int i=0;
 	char binnum[100], hexdec[100];
