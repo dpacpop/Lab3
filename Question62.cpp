@@ -29,4 +29,5 @@ void main()
 	{
 		cout<<hexdecnum[j];
 	}
+	return 0;
 }
