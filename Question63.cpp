@@ -33,4 +33,5 @@ void main()
 		}
 		i++;
 	}
+	return 0;
 }
